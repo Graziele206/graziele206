@@ -6,7 +6,7 @@ Meu nome é Graziele Brito
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo📧
 
 grazielemaria206@gmail.com
 
